@@ -1,0 +1,47 @@
+Reading mod 'Pioneer-Provisioner'...
+
+Reading Mods/Pioneer-Provisioner/Data/Objects/items.xml
+Reading Mods/Pioneer-Provisioner/Data/material.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/workshops.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/constructions.xml
+Reading Mods/Pioneer-Provisioner/Data/sprites.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/plant.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/liquid.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/storage.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/ammo.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/mechanism.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/trap.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/blueprint.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/skill.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/race.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/faction.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/bodypart.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/body.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/itemsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/UI/rightclickmenusettings.xml
+Reading Mods/Pioneer-Provisioner/Data/UI/stockmenusettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/uniformsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/constructionsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/workshopsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/prospectorsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/designationsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/charactersettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/goblinsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/mantsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/golemsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/automatonsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/grasssettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Characters/bloodsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/terrainsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/jobsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/newgamesettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/plantsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/liquidsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Objects/mechanismsettings.xml
+Reading Mods/Pioneer-Provisioner/Data/Names/language.xml
+Reading Mods/Pioneer-Provisioner/Data/Names/name.xml
+Reading Mods/Pioneer-Provisioner/Data/Names/word.xml
+Reading Mods/Pioneer-Provisioner/Data/Names/namerules.xml
+Reading Mods/Pioneer-Provisioner/Data/UI/professionmenusettings.xml
+
+...finished reading mod
